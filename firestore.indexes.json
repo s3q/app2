@@ -1,0 +1,19 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "massages",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "readedAt",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "createdAt",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

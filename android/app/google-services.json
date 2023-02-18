@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689697001375",
+    "project_id": "main-3c1f5",
+    "storage_bucket": "main-3c1f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689697001375:android:b26ca5166a3f90d7e0b7aa",
+        "android_client_info": {
+          "package_name": "com.android.oman.trippoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689697001375-mnm2v23hajim6e06i74kj24bgcfsqdjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.oman.trippoint",
+            "certificate_hash": "2d4d7ba56194ed607db07564de0a425834198002"
+          }
+        },
+        {
+          "client_id": "689697001375-1f1p803r7q6t30fag7lsi67m6lhp6drp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiHCRuX68MgopMYtJpp9nH_Cn5CmyKEL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689697001375-1f1p803r7q6t30fag7lsi67m6lhp6drp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

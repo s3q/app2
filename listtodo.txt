@@ -1,0 +1,11 @@
+debug mode
+pubspec 
+firebase Environment
+local.properties
+
+update sha1 in firebase
+
+
+ads configration  :
+info.plist 
+add --- in admob 
